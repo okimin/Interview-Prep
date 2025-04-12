@@ -7,4 +7,4 @@ This repository stores all system designs of systems I built as well as solution
 If you have any feedback on how to improve this study repo, please leave an issue.
 
 # How to see the excalidraw
-Go to this [link](excalidraw.com) and import the excalidraw document to view it.
+Go to this [link](https://www.excalidraw.com) and import the excalidraw document to view it.
