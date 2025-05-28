@@ -1,5 +1,3 @@
-package DSA.Happy-Number;
-
 public class happy_number {
     public boolean isHappy(int n) {
         
